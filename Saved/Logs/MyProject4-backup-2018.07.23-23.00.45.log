@@ -1,0 +1,1586 @@
+﻿Log file open, 07/23/18 11:16:17
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject4
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(186508015) SRandInit(186508015).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.172712
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.23-09.16.20:727][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.23-09.16.20:727][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.23-09.16.20:930][  0]LogInit: Computer: TSUKY
+[2018.07.23-09.16.20:930][  0]LogInit: User: Jeremy
+[2018.07.23-09.16.20:930][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.07.23-09.16.20:930][  0]LogInit: High frequency timer resolution =3.703130 MHz
+[2018.07.23-09.16.20:930][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.07.23-09.16.20:930][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.23-09.16.20:930][  0]LogMemory: Process Physical Memory: 271.70 MB used, 271.70 MB peak
+[2018.07.23-09.16.20:930][  0]LogMemory: Process Virtual Memory: 269.58 MB used, 269.58 MB peak
+[2018.07.23-09.16.20:930][  0]LogMemory: Physical Memory: 5673.25 MB used,  2478.25 MB free, 8151.49 MB total
+[2018.07.23-09.16.20:930][  0]LogMemory: Virtual Memory: 4763.90 MB used,  2478.25 MB free, 134217728.00 MB total
+[2018.07.23-09.16.21:404][  0]LogInit: Using OS detected language (fr-FR).
+[2018.07.23-09.16.21:404][  0]LogInit: Using OS detected locale (fr-BE).
+[2018.07.23-09.16.21:491][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the language.
+[2018.07.23-09.16.21:491][  0]LogTextLocalizationManager: No localization for 'fr-BE' exists, so 'en' will be used for the locale.
+[2018.07.23-09.16.22:057][  0]LogInit: Setting process to per monitor DPI aware
+[2018.07.23-09.16.25:429][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.23-09.16.25:839][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2018.07.23-09.16.25:839][  0]LogD3D11RHI:       4043/0/4075 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2018.07.23-09.16.25:893][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.23-09.16.25:893][  0]LogD3D11RHI:       0/0/4075 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.23-09.16.25:893][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.23-09.16.25:901][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.23-09.16.25:901][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2018.07.23-09.16.25:901][  0]LogWindows: EnumDisplayDevices:
+[2018.07.23-09.16.25:901][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2018.07.23-09.16.25:901][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2018.07.23-09.16.25:901][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2018.07.23-09.16.25:902][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.07.23-09.16.25:902][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.07.23-09.16.25:902][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2018.07.23-09.16.25:902][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.07.23-09.16.25:902][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.07.23-09.16.25:902][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2018.07.23-09.16.25:935][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.23-09.16.26:019][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.07.23-09.16.26:070][  0]LogShaderCompilers: Guid format shader working directory is -11 characters bigger than the processId version (../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Intermediate/Shaders/WorkingDirectory/8320/).
+[2018.07.23-09.16.26:070][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jeremy/AppData/Local/Temp/UnrealShaderWorkingDir/F05CA04145763A353BB14CB6EC339A6A/'.
+[2018.07.23-09.16.26:070][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.23-09.16.29:109][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.23-09.16.29:191][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.23-09.16.29:252][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.23-09.16.29:314][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.23-09.16.29:397][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.23-09.16.29:457][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.23-09.16.29:519][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.23-09.16.29:578][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.23-09.16.29:634][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.23-09.16.29:694][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.07.23-09.16.29:756][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.07.23-09.16.29:815][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.07.23-09.16.29:875][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.07.23-09.16.29:934][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.07.23-09.16.30:056][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.07.23-09.16.30:056][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.07.23-09.16.30:138][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.23-09.16.30:188][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.23-09.16.30:341][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.23-09.16.30:369][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.23-09.16.30:427][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.23-09.16.30:487][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.23-09.16.30:546][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.23-09.16.30:616][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.23-09.16.30:616][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.23-09.16.31:659][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.23-09.16.32:342][  0]LogDerivedDataCache: Loaded boot cache 0.68s 78MB C:/Users/Jeremy/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.07.23-09.16.32:342][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jeremy/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.07.23-09.16.32:342][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.23-09.16.32:342][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.23-09.16.32:342][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.23-09.16.32:342][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.23-09.16.32:377][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.23-09.16.32:390][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jeremy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.23-09.16.32:399][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.23-09.16.32:399][  0]LogSlate: Using Freetype 2.6.0
+[2018.07.23-09.16.32:431][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.23-09.16.32:431][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.23-09.16.36:498][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.23-09.16.37:396][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.23-09.16.37:480][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.23-09.16.37:480][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.23-09.16.37:480][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.23-09.16.37:480][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.07.23-09.16.37:480][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.07.23-09.16.37:526][  0]LogNetVersion: MyProject4 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1714626933)
+[2018.07.23-09.16.37:720][  0]LogAssetRegistry: FAssetRegistry took 0.0261 seconds to start up
+[2018.07.23-09.16.38:286][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.066987 seconds
+[2018.07.23-09.16.38:291][  0]LogUObjectArray: 35871 objects as part of root set at end of initial load.
+[2018.07.23-09.16.38:291][  0]LogUObjectAllocator: 7363928 out of 0 bytes used by permanent object pool.
+[2018.07.23-09.16.38:291][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.23-09.16.38:361][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.07.23-09.17.05:814][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.23-09.17.05:884][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.23-09.17.07:601][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.07.23-09.17.08:507][  0]SourceControl: Source control is disabled
+[2018.07.23-09.17.12:293][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.23-09.17.12:821][  0]LogOcInput: OculusInput pre-init called
+[2018.07.23-09.17.13:370][  0]LogEngine: Initializing Engine...
+[2018.07.23-09.17.13:372][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.23-09.17.13:621][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.23-09.17.13:621][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.23-09.17.13:863][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.23-09.17.13:971][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.23-09.17.14:017][  0]LogInit: FAudioDevice initialized.
+[2018.07.23-09.17.14:186][  0]LogDerivedDataCache: Saved boot cache 0.17s 78MB C:/Users/Jeremy/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.07.23-09.17.14:207][  0]LogInit: Texture streaming: Enabled
+[2018.07.23-09.17.14:568][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.23-09.17.14:785][  0]LogInit: Transaction tracking system initialized
+[2018.07.23-09.17.15:652][  0]BlueprintLog: New page: Editor Load
+[2018.07.23-09.17.17:425][  0]LocalizationService: Localization service is disabled
+[2018.07.23-09.17.18:582][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2018.07.23-09.17.18:582][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2018.07.23-09.17.18:582][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2018.07.23-09.17.19:043][  0]LogConsoleResponse: Display: 
+[2018.07.23-09.17.19:741][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.23-09.17.19:741][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.23-09.17.19:741][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.23-09.17.20:808][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jeremy/Documents/GitHub/MyProject4/Content/' took 0.01s
+[2018.07.23-09.17.22:411][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.23-09.17.22:412][  0]LightingResults: New page: Lighting Build
+[2018.07.23-09.17.22:490][  0]MapCheck: New page: Map Check
+[2018.07.23-09.17.22:490][  0]LightingResults: New page: Lighting Build
+[2018.07.23-09.17.22:911][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.07.23-09.17.22:918][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.23-09.17.22:928][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.23-09.17.23:008][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 79.564ms to complete.
+[2018.07.23-09.17.23:008][  0]LogFileHelpers: Loading map 'Template_Default' took 0.597
+[2018.07.23-09.17.23:438][  0]LogCollectionManager: Loaded 0 collections in 0.002251 seconds
+[2018.07.23-09.17.23:574][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jeremy/Documents/GitHub/MyProject4/Saved/Collections/' took 0.01s
+[2018.07.23-09.17.23:574][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jeremy/Documents/GitHub/MyProject4/Content/Developers/Jeremy/Collections/' took 0.01s
+[2018.07.23-09.17.23:574][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jeremy/Documents/GitHub/MyProject4/Content/Collections/' took 0.01s
+[2018.07.23-09.17.23:574][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.07.23-09.17.23:582][  0]LogContentBrowser: Native class hierarchy populated in 0.0070 seconds. Added 2363 classes and 519 folders.
+[2018.07.23-09.17.23:667][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.23-09.17.24:637][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.23-09.17.24:720][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.07.23-09.17.24:889][  0]LogSlate: Took 0.027887 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.23-09.17.24:911][  0]LogSlate: Took 0.021243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.23-09.17.24:930][  0]LogSlate: Took 0.013712 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.23-09.17.25:063][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.07.23-09.17.25:279][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.07.23-09.17.25:279][  0]LogLoad: (Engine Initialization) Total time: 88.20 seconds
+[2018.07.23-09.17.25:279][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.23-09.17.25:279][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.07.23-09.17.25:650][  0]LogAssetRegistry: Asset discovery search completed in 47.9522 seconds
+[2018.07.23-09.17.25:652][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.07.23-09.17.25:652][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000058 seconds (updated 0 objects)
+[2018.07.23-09.17.25:654][  0]SourceControl: On branch master
+[2018.07.23-09.17.25:654][  0]SourceControl: Your branch is up to date with 'origin/master'.
+[2018.07.23-09.17.25:654][  0]SourceControl: Untracked files:
+[2018.07.23-09.17.25:654][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.07.23-09.17.25:654][  0]SourceControl: 	Intermediate/
+[2018.07.23-09.17.25:654][  0]SourceControl: 	Saved/
+[2018.07.23-09.17.25:654][  0]SourceControl: nothing added to commit but untracked files present (use "git add" to track)
+[2018.07.23-09.17.25:655][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.07.23-09.17.25:688][  0]LogSlate: Took 0.001715 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.07.23-09.17.36:019][573]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.07.23-09.17.36:167][573]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 128X128)
+[2018.07.23-09.17.36:167][573]LogAIModule: Creating AISystem for world Map_1
+[2018.07.23-09.17.36:214][573]Cmd: MAP LOAD FILE="../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/StarterContent/Map_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.23-09.17.36:214][573]LightingResults: New page: Lighting Build
+[2018.07.23-09.17.36:214][573]LoadErrors: New page: Loading map: Map_1.umap
+[2018.07.23-09.17.36:214][573]MapCheck: New page: Map Check
+[2018.07.23-09.17.36:215][573]LightingResults: New page: Lighting Build
+[2018.07.23-09.17.38:925][573]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.23-09.17.38:945][573]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.23-09.17.39:041][573]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 96.851ms to complete.
+[2018.07.23-09.17.39:041][573]LogFileHelpers: Loading map 'Map_1' took 2.829
+[2018.07.23-09.17.39:042][573]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.23-09.18.22:487][377]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.07.23-09.18.23:299][377]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2018.07.23-09.18.24:415][473]LogSlate: Took 0.019657 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.07.23-09.21.04:584][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroBp" FILE="../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/HeroBp.uasset" SILENT=true
+[2018.07.23-09.21.04:605][628]LogSavePackage: Save=17.51ms
+[2018.07.23-09.21.04:605][628]LogSavePackage: Moving '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Saved/HeroBp08BEE30F4BBE972FAE3B2F910B63C3CD.tmp' to '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/HeroBp.uasset'
+[2018.07.23-09.21.04:611][628]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/HeroBp.uasset
+[2018.07.23-09.21.08:826][ 79]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.07.23-09.21.14:516][ 79]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.07.23-09.21.14:593][ 79]SourceControl: [master 342dac0] Hero
+[2018.07.23-09.21.14:593][ 79]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.07.23-09.21.14:593][ 79]SourceControl:  create mode 100644 Content/HeroBp.uasset
+[2018.07.23-09.21.14:609][ 79]SourceControl: Commited [master 342dac0] Hero.
+[2018.07.23-09.21.50:805][382]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2018.07.23-09.21.59:482][291]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2018.07.23-09.22.25:573][462]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2018.07.23-09.22.43:704][349]SourceControl: rm 'Content/HeroBp.uasset'
+[2018.07.23-09.23.25:842][625]LogSlate: Took 0.019600 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.07.23-09.24.18:389][526]BlueprintLog: New page: Compile Oui
+[2018.07.23-09.24.19:068][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Oui" FILE="../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset" SILENT=true
+[2018.07.23-09.24.19:098][558]LogSavePackage: Save=26.57ms
+[2018.07.23-09.24.19:098][558]LogSavePackage: Moving '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Saved/Oui0DFF258C4C17F9FD4754069B83B5653D.tmp' to '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset'
+[2018.07.23-09.24.19:103][558]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset
+[2018.07.23-09.27.09:540][901]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.07.23-09.27.09:710][902]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MyProject4
+[2018.07.23-09.27.09:711][902]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.07.23-09.27.09:711][902]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2018.07.23-09.27.09:711][902]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.07.23-09.27.09:711][902]LogTemp: BranchPath = TSUKY/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = TSUKY/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2018.07.23-09.27.09:711][902]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Jeremy\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.07.23-09.32.49:943][281]BlueprintLog: New page: Compile Oui
+[2018.07.23-09.32.50:615][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Oui" FILE="../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset" SILENT=true
+[2018.07.23-09.32.50:646][312]LogSavePackage: Save=25.07ms
+[2018.07.23-09.32.50:646][312]LogSavePackage: Moving '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Saved/OuiAB6950C141C81A05DF3E6585295C1125.tmp' to '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset'
+[2018.07.23-09.32.50:651][312]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset
+[2018.07.23-09.33.17:045][259]LogSlate: Took 0.000344 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.07.23-09.33.28:721][904]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Map_1' took 0.018
+[2018.07.23-09.33.28:750][904]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Oui] ([1] browsable assets)...
+[2018.07.23-09.33.28:750][904]OBJ SavePackage: Finished generating thumbnails for package [/Game/Oui]
+[2018.07.23-09.33.28:750][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Oui" FILE="../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Saved/Autosaves/Game/Oui_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.07.23-09.33.28:769][904]LogSavePackage: Save=14.67ms
+[2018.07.23-09.33.28:769][904]LogSavePackage: Moving '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Saved/Oui_Auto1137486244A0D13110A389782D8AE42F2.tmp' to '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Saved/Autosaves/Game/Oui_Auto1.uasset'
+[2018.07.23-09.33.28:771][904]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Saved/Autosaves/Game/Oui_Auto1.uasset
+[2018.07.23-09.33.28:771][904]LogFileHelpers: Auto-saving content packages took 0.050
+[2018.07.23-09.33.40:710][227]BlueprintLog: New page: Compile Oui
+[2018.07.23-09.33.41:354][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Oui" FILE="../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset" SILENT=true
+[2018.07.23-09.33.41:373][268]LogSavePackage: Save=15.12ms
+[2018.07.23-09.33.41:373][268]LogSavePackage: Moving '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Saved/Oui4F612D68468A8CD72A7B45B431B8813D.tmp' to '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset'
+[2018.07.23-09.33.41:379][268]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset
+[2018.07.23-09.35.38:143][252]BlueprintLog: New page: Compile Oui
+[2018.07.23-09.35.38:784][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Oui" FILE="../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset" SILENT=true
+[2018.07.23-09.35.38:806][289]LogSavePackage: Save=19.35ms
+[2018.07.23-09.35.38:806][289]LogSavePackage: Moving '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Saved/Oui93DD6B97456207F3369527B236BBE1DE.tmp' to '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset'
+[2018.07.23-09.35.38:812][289]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset
+[2018.07.23-09.35.40:713][505]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.23-09.35.42:168][505]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.23-09.35.42:251][505]PIE: New page: PIE session: Map_1 (Jul 23, 2018, 1:35:42 PM)
+[2018.07.23-09.35.42:265][505]LogPlayLevel: Creating play world package: /Game/StarterContent/UEDPIE_0_Map_1
+[2018.07.23-09.35.42:314][505]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049025s)
+[2018.07.23-09.35.42:315][505]LogAIModule: Creating AISystem for world Map_1
+[2018.07.23-09.35.42:325][505]LogPlayLevel: PIE: World Init took: (0.010458s)
+[2018.07.23-09.35.42:338][505]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Map_1.Map_1 to /Game/StarterContent/UEDPIE_0_Map_1.Map_1 (0.072940s)
+[2018.07.23-09.35.42:392][505]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.23-09.35.42:400][505]LogInit: FAudioDevice initialized.
+[2018.07.23-09.35.42:526][505]LogLoad: Game class is 'GameModeBase'
+[2018.07.23-09.35.42:658][505]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2018.07.23-11.35.42
+[2018.07.23-09.35.42:769][505]LogWorld: Bringing up level for play took: 0.124431
+[2018.07.23-09.35.42:895][505]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.07.23-09.35.42:924][505]PIE: Play in editor start time for /Game/StarterContent/UEDPIE_0_Map_1 0.416
+[2018.07.23-09.35.52:464][533]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.23-09.36.17:594][376]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.07.23-09.36.17:598][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:598][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:598][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:598][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:598][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:598][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:598][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:598][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:598][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:598][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:598][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:599][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:599][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:599][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:599][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:599][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:599][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:599][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:599][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:599][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:599][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:599][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:599][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:599][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:599][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:599][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:599][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:599][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:600][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:600][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:600][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:600][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:600][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:600][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:600][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:600][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:600][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:600][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:600][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:600][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:600][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:600][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:600][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:600][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:601][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:601][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:601][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:601][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:601][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:601][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:601][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:601][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:601][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:601][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:601][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:601][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:601][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:601][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:601][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:602][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:602][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:602][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:602][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:602][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:602][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:602][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:602][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:602][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:602][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:602][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:602][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:602][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:602][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:603][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:603][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:603][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:603][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:603][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:603][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:603][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:603][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:603][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:603][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:603][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:603][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:603][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:603][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:603][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:603][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:603][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:604][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:604][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:604][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:604][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:604][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:604][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:604][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:604][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:604][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:604][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:604][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:604][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:604][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:604][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:604][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:605][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:605][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:605][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:605][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:605][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:605][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:605][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:605][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:749][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:800][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:802][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:813][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:831][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.17:831][376]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.36.26:514][315]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.07.23-09.36.26:830][344]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MyProject4
+[2018.07.23-09.36.26:830][344]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.07.23-09.36.26:830][344]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2018.07.23-09.36.26:830][344]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.07.23-09.36.26:830][344]LogTemp: BranchPath = TSUKY/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = TSUKY/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2018.07.23-09.36.26:850][346]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Jeremy\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.07.23-09.37.22:526][838]SourceControl: Error: fatal: Invalid path '/Script': No such file or directory
+[2018.07.23-09.38.19:283][ 95]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.07.23-09.38.21:294][215]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.23-09.38.43:744][126]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.23-09.40.15:924][804]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.23-09.40.40:534][955]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.07.23-09.40.40:539][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:539][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:539][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:539][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:539][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:539][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:539][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:539][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:539][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:539][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:539][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:539][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:540][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:540][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:540][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:540][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:540][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:540][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:540][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:540][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:540][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:540][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:540][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:540][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:540][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:540][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:540][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:541][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:541][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:541][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:541][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:541][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:541][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:541][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:541][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:541][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:541][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:541][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:541][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:541][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:541][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:541][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:541][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:542][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:542][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:542][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:542][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:542][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:542][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:542][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:542][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:542][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:542][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:542][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:542][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:542][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:542][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:543][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:543][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:543][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:543][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:543][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:543][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:543][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:543][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:543][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:543][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:543][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:543][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:543][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:544][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:544][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:544][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:544][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:544][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:544][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:544][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:544][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:544][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:544][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:544][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:544][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:544][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:544][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:545][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:545][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:545][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:545][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:545][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:545][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:545][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:545][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:545][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:545][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:545][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:545][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:545][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:545][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:546][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:546][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:546][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:546][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:546][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:546][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:546][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:546][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:546][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:546][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:546][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:546][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:546][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:547][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:547][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:573][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:580][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:582][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:585][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:603][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.40.40:603][955]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.19:676][537]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.18/FeaturePacks/TP_ThirdPersonBP.upack)
+[2018.07.23-09.41.19:834][537]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.07.23-09.41.19:845][537]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPersonBP/ThirdPersonOverview.uasset" to "../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/ThirdPersonBP/ThirdPersonOverview.uasset"
+[2018.07.23-09.41.19:924][537]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" to "../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset"
+[2018.07.23-09.41.19:996][537]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" to "../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset"
+[2018.07.23-09.41.20:164][537]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" to "../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap"
+[2018.07.23-09.41.20:219][537]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" to "../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset"
+[2018.07.23-09.41.22:438][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/ThirdPersonOverview" FILE="../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/ThirdPersonBP/ThirdPersonOverview.uasset" SILENT=true
+[2018.07.23-09.41.22:464][537]LogSavePackage: Save=18.72ms
+[2018.07.23-09.41.22:464][537]LogSavePackage: Moving '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Saved/ThirdPersonOverviewD49B3C56428A5D33DC64699665B87F3E.tmp' to '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/ThirdPersonBP/ThirdPersonOverview.uasset'
+[2018.07.23-09.41.22:470][537]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/ThirdPersonBP/ThirdPersonOverview.uasset
+[2018.07.23-09.41.30:511][260]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.23-09.41.33:424][490]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.07.23-09.41.33:428][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:428][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:428][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:428][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:428][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:428][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:428][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:428][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:428][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:429][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:429][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:429][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:429][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:429][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:429][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:429][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:429][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:429][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:429][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:429][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:429][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:429][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:429][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:429][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:429][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:430][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:430][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:430][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:430][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:430][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:430][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:430][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:430][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:430][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:430][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:430][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:430][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:430][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:430][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:430][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:430][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:430][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:431][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:431][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:431][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:431][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:431][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:431][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:431][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:431][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:431][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:431][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:431][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:431][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:431][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:431][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:431][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:431][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:432][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:432][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:432][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:432][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:432][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:432][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:432][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:432][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:432][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:432][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:432][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:432][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:432][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:432][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:432][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:432][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:433][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:433][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:433][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:433][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:433][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:433][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:433][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:433][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:433][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:433][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:433][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:433][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:433][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:433][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:433][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:433][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:433][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:434][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:434][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:434][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:434][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:434][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:434][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:434][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:434][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:434][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:434][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:434][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:434][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:434][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:434][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:434][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:435][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:435][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:435][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:435][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:435][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:435][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:435][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:461][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:468][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:469][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:471][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:491][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.33:491][490]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:354][453]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.07.23-09.41.44:358][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:358][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:359][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:359][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:359][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:359][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:359][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:359][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:359][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:359][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:359][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:359][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:359][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:359][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:360][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:360][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:360][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:360][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:360][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:360][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:360][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:360][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:360][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:360][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:360][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:360][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:360][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:360][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:360][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:361][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:361][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:361][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:361][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:361][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:361][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:361][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:361][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:361][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:361][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:361][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:361][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:361][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:361][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:361][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:362][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:362][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:362][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:362][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:362][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:362][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:362][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:362][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:362][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:362][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:362][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:362][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:362][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:362][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:362][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:362][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:362][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:363][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:363][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:363][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:363][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:363][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:363][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:363][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:363][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:363][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:363][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:363][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:363][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:364][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:364][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:364][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:364][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:364][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:364][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:364][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:364][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:364][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:364][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:364][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:364][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:364][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:365][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:365][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:365][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:365][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:365][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:365][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:365][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:365][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:365][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:365][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:365][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:365][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:365][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:365][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:365][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:365][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:366][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:366][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:366][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:366][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:366][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:366][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:366][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:366][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:366][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:366][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:366][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:402][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:409][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:411][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:413][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:434][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.44:434][453]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.23-09.41.59:969][837]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.23-09.42.01:087][838]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.07.23-09.42.05:173][142]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.23-09.42.40:810][770]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.23-09.42.40:822][770]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.07.23-09.42.40:824][770]LogPlayLevel: [PlayLevel] Compiling NewPlayerController before play...
+[2018.07.23-09.42.41:013][770]LogPlayLevel: PlayLevel: Blueprint regeneration took 191 ms (1 blueprints)
+[2018.07.23-09.42.41:013][770]PIE: New page: PIE session: Map_1 (Jul 23, 2018, 1:42:41 PM)
+[2018.07.23-09.42.41:013][770]LogPlayLevel: Creating play world package: /Game/StarterContent/UEDPIE_0_Map_1
+[2018.07.23-09.42.41:019][770]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005938s)
+[2018.07.23-09.42.41:020][770]LogAIModule: Creating AISystem for world Map_1
+[2018.07.23-09.42.41:020][770]LogPlayLevel: PIE: World Init took: (0.000686s)
+[2018.07.23-09.42.41:020][770]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Map_1.Map_1 to /Game/StarterContent/UEDPIE_0_Map_1.Map_1 (0.006881s)
+[2018.07.23-09.42.41:045][770]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.23-09.42.41:053][770]LogInit: FAudioDevice initialized.
+[2018.07.23-09.42.41:083][770]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.23-09.42.41:085][770]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2018.07.23-11.42.41
+[2018.07.23-09.42.41:085][770]LogWorld: Bringing up level for play took: 0.001954
+[2018.07.23-09.42.41:117][770]PIE: Play in editor start time for /Game/StarterContent/UEDPIE_0_Map_1 0.608
+[2018.07.23-09.43.00:016][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NewPlayerController" FILE="../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Blueprints/NewPlayerController.uasset" SILENT=true
+[2018.07.23-09.43.00:028][681]LogSavePackage: Save=8.48ms
+[2018.07.23-09.43.00:028][681]LogSavePackage: Moving '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Saved/NewPlayerController2B7B2FE54257F7D022357F83B857D51B.tmp' to '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Blueprints/NewPlayerController.uasset'
+[2018.07.23-09.43.00:032][681]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Blueprints/NewPlayerController.uasset
+[2018.07.23-09.43.00:239][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NewPlayerState" FILE="../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Blueprints/NewPlayerState.uasset" SILENT=true
+[2018.07.23-09.43.00:247][681]LogSavePackage: Save=6.28ms
+[2018.07.23-09.43.00:247][681]LogSavePackage: Moving '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Saved/NewPlayerState5CAEFBCF4ED10089540BE986AE082D9A.tmp' to '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Blueprints/NewPlayerState.uasset'
+[2018.07.23-09.43.00:252][681]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Blueprints/NewPlayerState.uasset
+[2018.07.23-09.43.00:453][681]LogSavePackage: Save=4.53ms
+[2018.07.23-09.43.00:453][681]LogSavePackage: Moving '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Saved/ThirdPersonGameMode181DDCE34482C1F800858ABFA517356E.tmp' to '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2018.07.23-09.43.00:458][681]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset
+[2018.07.23-09.43.02:700][939]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.07.23-09.43.13:555][939]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.07.23-09.43.13:957][939]SourceControl: [master f468b36] HeroBp
+[2018.07.23-09.43.13:957][939]SourceControl:  11 files changed, 56 insertions(+)
+[2018.07.23-09.43.13:957][939]SourceControl:  create mode 100644 Config/DefaultEngine.ini
+[2018.07.23-09.43.13:957][939]SourceControl:  create mode 100644 Config/DefaultInput.ini
+[2018.07.23-09.43.13:957][939]SourceControl:  create mode 100644 Content/Blueprints/NewPlayerController.uasset
+[2018.07.23-09.43.13:957][939]SourceControl:  create mode 100644 Content/Blueprints/NewPlayerState.uasset
+[2018.07.23-09.43.13:957][939]SourceControl:  delete mode 100644 Content/HeroBp.uasset
+[2018.07.23-09.43.13:957][939]SourceControl:  create mode 100644 Content/Oui.uasset
+[2018.07.23-09.43.13:957][939]SourceControl:  create mode 100644 Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.07.23-09.43.13:957][939]SourceControl:  create mode 100644 Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset
+[2018.07.23-09.43.13:957][939]SourceControl:  create mode 100644 Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.07.23-09.43.13:957][939]SourceControl:  create mode 100644 Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.07.23-09.43.13:957][939]SourceControl:  create mode 100644 Content/ThirdPersonBP/ThirdPersonOverview.uasset
+[2018.07.23-09.43.13:973][939]SourceControl: Commited [master f468b36] HeroBp.
+[2018.07.23-09.43.50:182][256]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.07.23-09.44.31:064][807]BlueprintLog: New page: Compile Oui
+[2018.07.23-09.44.31:707][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Oui" FILE="../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset" SILENT=true
+[2018.07.23-09.44.31:733][835]LogSavePackage: Save=19.87ms
+[2018.07.23-09.44.31:733][835]LogSavePackage: Moving '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Saved/OuiACD1907E4F8B2B87287AD18C636563ED.tmp' to '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset'
+[2018.07.23-09.44.31:738][835]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset
+[2018.07.23-09.44.33:882][ 61]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.23-09.44.33:894][ 61]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.23-09.44.33:894][ 61]PIE: New page: PIE session: Map_1 (Jul 23, 2018, 1:44:33 PM)
+[2018.07.23-09.44.33:895][ 61]LogPlayLevel: Creating play world package: /Game/StarterContent/UEDPIE_0_Map_1
+[2018.07.23-09.44.33:900][ 61]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005759s)
+[2018.07.23-09.44.33:901][ 61]LogAIModule: Creating AISystem for world Map_1
+[2018.07.23-09.44.33:901][ 61]LogPlayLevel: PIE: World Init took: (0.000674s)
+[2018.07.23-09.44.33:901][ 61]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Map_1.Map_1 to /Game/StarterContent/UEDPIE_0_Map_1.Map_1 (0.006699s)
+[2018.07.23-09.44.33:925][ 61]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.23-09.44.33:933][ 61]LogInit: FAudioDevice initialized.
+[2018.07.23-09.44.33:964][ 61]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.23-09.44.33:966][ 61]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2018.07.23-11.44.33
+[2018.07.23-09.44.33:966][ 61]LogWorld: Bringing up level for play took: 0.001871
+[2018.07.23-09.44.33:967][ 61]PIE: Play in editor start time for /Game/StarterContent/UEDPIE_0_Map_1 -0.541
+[2018.07.23-09.45.47:279][902]BlueprintLog: New page: Compile Oui
+[2018.07.23-09.45.48:052][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Oui" FILE="../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset" SILENT=true
+[2018.07.23-09.45.48:075][949]LogSavePackage: Save=19.67ms
+[2018.07.23-09.45.48:075][949]LogSavePackage: Moving '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Saved/Oui21A7D6614296151D80F8FFBAF6B78EC6.tmp' to '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset'
+[2018.07.23-09.45.48:080][949]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset
+[2018.07.23-09.45.50:657][216]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.23-09.45.50:670][216]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.23-09.45.50:670][216]PIE: New page: PIE session: Map_1 (Jul 23, 2018, 1:45:50 PM)
+[2018.07.23-09.45.50:670][216]LogPlayLevel: Creating play world package: /Game/StarterContent/UEDPIE_0_Map_1
+[2018.07.23-09.45.50:676][216]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005623s)
+[2018.07.23-09.45.50:677][216]LogAIModule: Creating AISystem for world Map_1
+[2018.07.23-09.45.50:677][216]LogPlayLevel: PIE: World Init took: (0.000693s)
+[2018.07.23-09.45.50:677][216]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Map_1.Map_1 to /Game/StarterContent/UEDPIE_0_Map_1.Map_1 (0.006697s)
+[2018.07.23-09.45.50:702][216]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.23-09.45.50:709][216]LogInit: FAudioDevice initialized.
+[2018.07.23-09.45.50:740][216]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.23-09.45.50:743][216]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2018.07.23-11.45.50
+[2018.07.23-09.45.50:744][216]LogWorld: Bringing up level for play took: 0.002480
+[2018.07.23-09.45.50:745][216]PIE: Play in editor start time for /Game/StarterContent/UEDPIE_0_Map_1 0.237
+[2018.07.23-09.45.55:943][807]BlueprintLog: New page: Compile Oui
+[2018.07.23-09.45.56:637][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Oui" FILE="../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset" SILENT=true
+[2018.07.23-09.45.56:660][847]LogSavePackage: Save=19.16ms
+[2018.07.23-09.45.56:660][847]LogSavePackage: Moving '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Saved/Oui88E2A70D43035887A6E5FB9A0C8C16E7.tmp' to '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset'
+[2018.07.23-09.45.56:662][847]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset
+[2018.07.23-09.46.06:185][846]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.23-09.46.06:198][846]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.23-09.46.06:198][846]PIE: New page: PIE session: Map_1 (Jul 23, 2018, 1:46:06 PM)
+[2018.07.23-09.46.06:198][846]LogPlayLevel: Creating play world package: /Game/StarterContent/UEDPIE_0_Map_1
+[2018.07.23-09.46.06:204][846]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005919s)
+[2018.07.23-09.46.06:204][846]LogAIModule: Creating AISystem for world Map_1
+[2018.07.23-09.46.06:204][846]LogPlayLevel: PIE: World Init took: (0.000584s)
+[2018.07.23-09.46.06:205][846]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Map_1.Map_1 to /Game/StarterContent/UEDPIE_0_Map_1.Map_1 (0.006812s)
+[2018.07.23-09.46.06:230][846]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.23-09.46.06:238][846]LogInit: FAudioDevice initialized.
+[2018.07.23-09.46.06:269][846]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.23-09.46.06:272][846]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2018.07.23-11.46.06
+[2018.07.23-09.46.06:272][846]LogWorld: Bringing up level for play took: 0.002385
+[2018.07.23-09.46.06:274][846]PIE: Play in editor start time for /Game/StarterContent/UEDPIE_0_Map_1 -0.234
+[2018.07.23-09.46.45:706][404]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.23-09.46.45:742][404]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.23-09.46.45:742][404]PIE: New page: PIE session: Map_1 (Jul 23, 2018, 1:46:45 PM)
+[2018.07.23-09.46.45:742][404]LogPlayLevel: Creating play world package: /Game/StarterContent/UEDPIE_0_Map_1
+[2018.07.23-09.46.45:748][404]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006169s)
+[2018.07.23-09.46.45:748][404]LogAIModule: Creating AISystem for world Map_1
+[2018.07.23-09.46.45:748][404]LogPlayLevel: PIE: World Init took: (0.000579s)
+[2018.07.23-09.46.45:748][404]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Map_1.Map_1 to /Game/StarterContent/UEDPIE_0_Map_1.Map_1 (0.007004s)
+[2018.07.23-09.46.45:774][404]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.23-09.46.45:782][404]LogInit: FAudioDevice initialized.
+[2018.07.23-09.46.45:818][404]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.23-09.46.45:820][404]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2018.07.23-11.46.45
+[2018.07.23-09.46.45:821][404]LogWorld: Bringing up level for play took: 0.001939
+[2018.07.23-09.46.45:822][404]PIE: Play in editor start time for /Game/StarterContent/UEDPIE_0_Map_1 -0.686
+[2018.07.23-09.47.10:579][904]BlueprintLog: New page: Compile Oui
+[2018.07.23-09.47.11:110][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Oui" FILE="../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset" SILENT=true
+[2018.07.23-09.47.11:134][923]LogSavePackage: Save=19.97ms
+[2018.07.23-09.47.11:134][923]LogSavePackage: Moving '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Saved/OuiE6CF913C446BC34A130ECCB30DADEB0A.tmp' to '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset'
+[2018.07.23-09.47.11:139][923]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset
+[2018.07.23-09.47.12:943][116]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.23-09.47.12:955][116]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.23-09.47.12:955][116]PIE: New page: PIE session: Map_1 (Jul 23, 2018, 1:47:12 PM)
+[2018.07.23-09.47.12:955][116]LogPlayLevel: Creating play world package: /Game/StarterContent/UEDPIE_0_Map_1
+[2018.07.23-09.47.12:962][116]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006576s)
+[2018.07.23-09.47.12:962][116]LogAIModule: Creating AISystem for world Map_1
+[2018.07.23-09.47.12:962][116]LogPlayLevel: PIE: World Init took: (0.000586s)
+[2018.07.23-09.47.12:962][116]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Map_1.Map_1 to /Game/StarterContent/UEDPIE_0_Map_1.Map_1 (0.007443s)
+[2018.07.23-09.47.12:986][116]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.23-09.47.12:995][116]LogInit: FAudioDevice initialized.
+[2018.07.23-09.47.13:026][116]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.23-09.47.13:028][116]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2018.07.23-11.47.13
+[2018.07.23-09.47.13:029][116]LogWorld: Bringing up level for play took: 0.001960
+[2018.07.23-09.47.13:030][116]PIE: Play in editor start time for /Game/StarterContent/UEDPIE_0_Map_1 0.522
+[2018.07.23-09.48.31:613][244]BlueprintLog: New page: Compile Oui
+[2018.07.23-09.48.32:677][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Oui" FILE="../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset" SILENT=true
+[2018.07.23-09.48.32:700][327]LogSavePackage: Save=19.14ms
+[2018.07.23-09.48.32:701][327]LogSavePackage: Moving '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Saved/Oui983DC1E743006357483408AF80E9B441.tmp' to '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset'
+[2018.07.23-09.48.32:705][327]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset
+[2018.07.23-09.48.35:566][653]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.23-09.48.35:579][653]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.23-09.48.35:579][653]PIE: New page: PIE session: Map_1 (Jul 23, 2018, 1:48:35 PM)
+[2018.07.23-09.48.35:579][653]LogPlayLevel: Creating play world package: /Game/StarterContent/UEDPIE_0_Map_1
+[2018.07.23-09.48.35:585][653]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005584s)
+[2018.07.23-09.48.35:585][653]LogAIModule: Creating AISystem for world Map_1
+[2018.07.23-09.48.35:586][653]LogPlayLevel: PIE: World Init took: (0.000627s)
+[2018.07.23-09.48.35:586][653]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Map_1.Map_1 to /Game/StarterContent/UEDPIE_0_Map_1.Map_1 (0.006452s)
+[2018.07.23-09.48.35:608][653]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.23-09.48.35:616][653]LogInit: FAudioDevice initialized.
+[2018.07.23-09.48.35:650][653]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.23-09.48.35:652][653]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2018.07.23-11.48.35
+[2018.07.23-09.48.35:652][653]LogWorld: Bringing up level for play took: 0.001831
+[2018.07.23-09.48.35:653][653]PIE: Play in editor start time for /Game/StarterContent/UEDPIE_0_Map_1 -0.854
+[2018.07.23-09.52.05:241][780]BlueprintLog: New page: Compile Oui
+[2018.07.23-09.52.06:026][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Oui" FILE="../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset" SILENT=true
+[2018.07.23-09.52.06:055][830]LogSavePackage: Save=23.26ms
+[2018.07.23-09.52.06:055][830]LogSavePackage: Moving '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Saved/Oui003C181045C547CE6025E0993C606D25.tmp' to '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset'
+[2018.07.23-09.52.06:061][830]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset
+[2018.07.23-09.52.08:217][ 70]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.23-09.52.08:230][ 70]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.23-09.52.08:230][ 70]PIE: New page: PIE session: Map_1 (Jul 23, 2018, 1:52:08 PM)
+[2018.07.23-09.52.08:230][ 70]LogPlayLevel: Creating play world package: /Game/StarterContent/UEDPIE_0_Map_1
+[2018.07.23-09.52.08:236][ 70]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005926s)
+[2018.07.23-09.52.08:237][ 70]LogAIModule: Creating AISystem for world Map_1
+[2018.07.23-09.52.08:237][ 70]LogPlayLevel: PIE: World Init took: (0.000668s)
+[2018.07.23-09.52.08:237][ 70]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Map_1.Map_1 to /Game/StarterContent/UEDPIE_0_Map_1.Map_1 (0.006886s)
+[2018.07.23-09.52.08:262][ 70]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.23-09.52.08:270][ 70]LogInit: FAudioDevice initialized.
+[2018.07.23-09.52.08:304][ 70]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.23-09.52.08:307][ 70]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2018.07.23-11.52.08
+[2018.07.23-09.52.08:307][ 70]LogWorld: Bringing up level for play took: 0.002298
+[2018.07.23-09.52.08:308][ 70]PIE: Play in editor start time for /Game/StarterContent/UEDPIE_0_Map_1 -0.2
+[2018.07.23-09.52.57:469][223]BlueprintLog: New page: Compile Oui
+[2018.07.23-09.52.58:051][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Oui" FILE="../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset" SILENT=true
+[2018.07.23-09.52.58:078][242]LogSavePackage: Save=23.22ms
+[2018.07.23-09.52.58:079][242]LogSavePackage: Moving '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Saved/OuiAAEF1F874D0E43A02B543C8F7168F622.tmp' to '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset'
+[2018.07.23-09.52.58:084][242]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset
+[2018.07.23-09.53.00:381][494]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.23-09.53.00:393][494]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.23-09.53.00:393][494]PIE: New page: PIE session: Map_1 (Jul 23, 2018, 1:53:00 PM)
+[2018.07.23-09.53.00:393][494]LogPlayLevel: Creating play world package: /Game/StarterContent/UEDPIE_0_Map_1
+[2018.07.23-09.53.00:399][494]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006165s)
+[2018.07.23-09.53.00:400][494]LogAIModule: Creating AISystem for world Map_1
+[2018.07.23-09.53.00:400][494]LogPlayLevel: PIE: World Init took: (0.000709s)
+[2018.07.23-09.53.00:400][494]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Map_1.Map_1 to /Game/StarterContent/UEDPIE_0_Map_1.Map_1 (0.007177s)
+[2018.07.23-09.53.00:425][494]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.23-09.53.00:432][494]LogInit: FAudioDevice initialized.
+[2018.07.23-09.53.00:460][494]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.23-09.53.00:463][494]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2018.07.23-11.53.00
+[2018.07.23-09.53.00:464][494]LogWorld: Bringing up level for play took: 0.002352
+[2018.07.23-09.53.00:465][494]PIE: Play in editor start time for /Game/StarterContent/UEDPIE_0_Map_1 -0.043
+[2018.07.23-09.53.39:873][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Oui" FILE="../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset" SILENT=true
+[2018.07.23-09.53.39:900][636]LogSavePackage: Save=23.43ms
+[2018.07.23-09.53.39:901][636]LogSavePackage: Moving '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Saved/Oui83C7CD3D49F594DDEF6A13AEA9FDD6F4.tmp' to '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset'
+[2018.07.23-09.53.39:903][636]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset
+[2018.07.23-09.53.40:475][682]BlueprintLog: New page: Compile Oui
+[2018.07.23-09.53.42:309][843]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.23-09.53.42:321][843]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.23-09.53.42:321][843]PIE: New page: PIE session: Map_1 (Jul 23, 2018, 1:53:42 PM)
+[2018.07.23-09.53.42:321][843]LogPlayLevel: Creating play world package: /Game/StarterContent/UEDPIE_0_Map_1
+[2018.07.23-09.53.42:327][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005733s)
+[2018.07.23-09.53.42:327][843]LogAIModule: Creating AISystem for world Map_1
+[2018.07.23-09.53.42:327][843]LogPlayLevel: PIE: World Init took: (0.000568s)
+[2018.07.23-09.53.42:328][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Map_1.Map_1 to /Game/StarterContent/UEDPIE_0_Map_1.Map_1 (0.006669s)
+[2018.07.23-09.53.42:351][843]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.23-09.53.42:359][843]LogInit: FAudioDevice initialized.
+[2018.07.23-09.53.42:387][843]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.23-09.53.42:389][843]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2018.07.23-11.53.42
+[2018.07.23-09.53.42:390][843]LogWorld: Bringing up level for play took: 0.001816
+[2018.07.23-09.53.42:391][843]PIE: Play in editor start time for /Game/StarterContent/UEDPIE_0_Map_1 -0.118
+[2018.07.23-09.54.21:909][363]BlueprintLog: New page: Compile Oui
+[2018.07.23-09.54.22:583][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Oui" FILE="../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset" SILENT=true
+[2018.07.23-09.54.22:610][392]LogSavePackage: Save=22.93ms
+[2018.07.23-09.54.22:610][392]LogSavePackage: Moving '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Saved/Oui1D90150244B4DA65FA4908BAF317E5B6.tmp' to '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset'
+[2018.07.23-09.54.22:616][392]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset
+[2018.07.23-09.54.24:507][579]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.23-09.54.24:520][579]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.23-09.54.24:520][579]PIE: New page: PIE session: Map_1 (Jul 23, 2018, 1:54:24 PM)
+[2018.07.23-09.54.24:520][579]LogPlayLevel: Creating play world package: /Game/StarterContent/UEDPIE_0_Map_1
+[2018.07.23-09.54.24:526][579]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005727s)
+[2018.07.23-09.54.24:526][579]LogAIModule: Creating AISystem for world Map_1
+[2018.07.23-09.54.24:527][579]LogPlayLevel: PIE: World Init took: (0.000708s)
+[2018.07.23-09.54.24:527][579]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Map_1.Map_1 to /Game/StarterContent/UEDPIE_0_Map_1.Map_1 (0.006681s)
+[2018.07.23-09.54.24:550][579]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.23-09.54.24:558][579]LogInit: FAudioDevice initialized.
+[2018.07.23-09.54.24:589][579]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.23-09.54.24:591][579]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2018.07.23-11.54.24
+[2018.07.23-09.54.24:591][579]LogWorld: Bringing up level for play took: 0.001878
+[2018.07.23-09.54.24:592][579]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1844.709 Y=-3655.292 Z=347.966] for [Oui_C]
+[2018.07.23-09.54.24:593][579]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type Oui_C at Rotation: Pitch 0.000000 Yaw 121.719864 Roll 0.000000
+Translation: 1853.150024 -3663.732666 347.965881
+Scale3D: 1.000000 1.000000 1.000000
+
+[2018.07.23-09.54.24:628][579]PIE: Play in editor start time for /Game/StarterContent/UEDPIE_0_Map_1 0.12
+[2018.07.23-09.54.53:394][ 85]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Map_1' took 0.017
+[2018.07.23-09.54.53:397][ 85]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Oui] ([1] browsable assets)...
+[2018.07.23-09.54.53:397][ 85]OBJ SavePackage: Finished generating thumbnails for package [/Game/Oui]
+[2018.07.23-09.54.53:397][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Oui" FILE="../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Saved/Autosaves/Game/Oui_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.07.23-09.54.53:425][ 85]LogSavePackage: Save=23.93ms
+[2018.07.23-09.54.53:425][ 85]LogSavePackage: Moving '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Saved/Oui_Auto29BA7ABBF4B52DE976072D58800C44689.tmp' to '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Saved/Autosaves/Game/Oui_Auto2.uasset'
+[2018.07.23-09.54.53:428][ 85]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Saved/Autosaves/Game/Oui_Auto2.uasset
+[2018.07.23-09.54.53:428][ 85]LogFileHelpers: Auto-saving content packages took 0.033
+[2018.07.23-09.55.00:795][423]BlueprintLog: New page: Compile Oui
+[2018.07.23-09.55.01:376][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Oui" FILE="../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset" SILENT=true
+[2018.07.23-09.55.01:404][445]LogSavePackage: Save=23.38ms
+[2018.07.23-09.55.01:404][445]LogSavePackage: Moving '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Saved/Oui0BCDE85D4AC719834A18E89091CEEFB5.tmp' to '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset'
+[2018.07.23-09.55.01:409][445]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset
+[2018.07.23-09.55.02:864][595]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.23-09.55.02:876][595]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.23-09.55.02:876][595]PIE: New page: PIE session: Map_1 (Jul 23, 2018, 1:55:02 PM)
+[2018.07.23-09.55.02:876][595]LogPlayLevel: Creating play world package: /Game/StarterContent/UEDPIE_0_Map_1
+[2018.07.23-09.55.02:882][595]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005809s)
+[2018.07.23-09.55.02:883][595]LogAIModule: Creating AISystem for world Map_1
+[2018.07.23-09.55.02:883][595]LogPlayLevel: PIE: World Init took: (0.000733s)
+[2018.07.23-09.55.02:883][595]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Map_1.Map_1 to /Game/StarterContent/UEDPIE_0_Map_1.Map_1 (0.006809s)
+[2018.07.23-09.55.02:907][595]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.23-09.55.02:915][595]LogInit: FAudioDevice initialized.
+[2018.07.23-09.55.02:950][595]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.23-09.55.02:953][595]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2018.07.23-11.55.02
+[2018.07.23-09.55.02:953][595]LogWorld: Bringing up level for play took: 0.002170
+[2018.07.23-09.55.02:954][595]PIE: Play in editor start time for /Game/StarterContent/UEDPIE_0_Map_1 0.446
+[2018.07.23-09.55.08:289][112]LogEditorTransaction: Undo Edit Use Pawn Control Rotation
+[2018.07.23-09.55.08:311][112]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_8:PersistentLevel.Oui_C_4.CollisionCylinder) Component already registered.
+[2018.07.23-09.55.08:927][161]LogEditorTransaction: Undo Edit Use Pawn Control Rotation
+[2018.07.23-09.55.08:929][161]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_8:PersistentLevel.Oui_C_4.CollisionCylinder) Component already registered.
+[2018.07.23-09.55.10:074][273]LogEditorTransaction: Undo Edit Use Pawn Control Rotation
+[2018.07.23-09.55.10:077][273]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_8:PersistentLevel.Oui_C_4.CollisionCylinder) Component already registered.
+[2018.07.23-09.55.10:656][329]LogEditorTransaction: Undo Edit Use Controller Rotation Yaw
+[2018.07.23-09.55.10:659][329]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_8:PersistentLevel.Oui_C_4.CollisionCylinder) Component already registered.
+[2018.07.23-09.55.18:866][ 38]BlueprintLog: New page: Compile Oui
+[2018.07.23-09.55.19:584][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Oui" FILE="../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset" SILENT=true
+[2018.07.23-09.55.19:613][ 67]LogSavePackage: Save=25.06ms
+[2018.07.23-09.55.19:613][ 67]LogSavePackage: Moving '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Saved/OuiBF635C5B4FBA5971DBCDAC9A0EC103EA.tmp' to '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset'
+[2018.07.23-09.55.19:619][ 67]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset
+[2018.07.23-09.55.23:876][418]BlueprintLog: New page: Compile Oui
+[2018.07.23-09.55.24:527][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Oui" FILE="../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset" SILENT=true
+[2018.07.23-09.55.24:554][444]LogSavePackage: Save=23.35ms
+[2018.07.23-09.55.24:554][444]LogSavePackage: Moving '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Saved/OuiE1E7769D42E2257F8E11E582D970E31B.tmp' to '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset'
+[2018.07.23-09.55.24:559][444]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Oui.uasset
+[2018.07.23-09.55.26:069][598]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.23-09.55.26:082][598]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.23-09.55.26:083][598]PIE: New page: PIE session: Map_1 (Jul 23, 2018, 1:55:26 PM)
+[2018.07.23-09.55.26:083][598]LogPlayLevel: Creating play world package: /Game/StarterContent/UEDPIE_0_Map_1
+[2018.07.23-09.55.26:088][598]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005617s)
+[2018.07.23-09.55.26:089][598]LogAIModule: Creating AISystem for world Map_1
+[2018.07.23-09.55.26:089][598]LogPlayLevel: PIE: World Init took: (0.000623s)
+[2018.07.23-09.55.26:089][598]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Map_1.Map_1 to /Game/StarterContent/UEDPIE_0_Map_1.Map_1 (0.006517s)
+[2018.07.23-09.55.26:113][598]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.23-09.55.26:121][598]LogInit: FAudioDevice initialized.
+[2018.07.23-09.55.26:155][598]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.23-09.55.26:158][598]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2018.07.23-11.55.26
+[2018.07.23-09.55.26:158][598]LogWorld: Bringing up level for play took: 0.001875
+[2018.07.23-09.55.26:159][598]PIE: Play in editor start time for /Game/StarterContent/UEDPIE_0_Map_1 -0.349
+[2018.07.23-09.55.31:752][234]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.07.23-09.55.32:598][302]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.07.23-09.55.33:208][373]LogEditorViewport: Clicking on Actor (LMB): Character (Character)
+[2018.07.23-09.55.34:817][550]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.23-09.55.34:831][550]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.23-09.55.34:832][550]PIE: New page: PIE session: Map_1 (Jul 23, 2018, 1:55:34 PM)
+[2018.07.23-09.55.34:832][550]LogPlayLevel: Creating play world package: /Game/StarterContent/UEDPIE_0_Map_1
+[2018.07.23-09.55.34:837][550]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005963s)
+[2018.07.23-09.55.34:837][550]LogAIModule: Creating AISystem for world Map_1
+[2018.07.23-09.55.34:837][550]LogPlayLevel: PIE: World Init took: (0.000606s)
+[2018.07.23-09.55.34:838][550]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Map_1.Map_1 to /Game/StarterContent/UEDPIE_0_Map_1.Map_1 (0.006829s)
+[2018.07.23-09.55.34:864][550]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.23-09.55.34:872][550]LogInit: FAudioDevice initialized.
+[2018.07.23-09.55.34:905][550]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.23-09.55.34:907][550]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2018.07.23-11.55.34
+[2018.07.23-09.55.34:908][550]LogWorld: Bringing up level for play took: 0.001863
+[2018.07.23-09.55.34:909][550]PIE: Play in editor start time for /Game/StarterContent/UEDPIE_0_Map_1 0.401
+[2018.07.23-09.55.39:351][ 67]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.07.23-09.55.39:983][137]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.07.23-09.55.40:779][230]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.07.23-09.55.41:337][294]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.07.23-09.55.43:413][503]LogEditorViewport: Clicking on Actor (LMB): Character (Character)
+[2018.07.23-09.55.46:691][883]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.23-09.55.46:703][883]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.23-09.55.46:703][883]PIE: New page: PIE session: Map_1 (Jul 23, 2018, 1:55:46 PM)
+[2018.07.23-09.55.46:703][883]LogPlayLevel: Creating play world package: /Game/StarterContent/UEDPIE_0_Map_1
+[2018.07.23-09.55.46:709][883]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005555s)
+[2018.07.23-09.55.46:709][883]LogAIModule: Creating AISystem for world Map_1
+[2018.07.23-09.55.46:709][883]LogPlayLevel: PIE: World Init took: (0.000587s)
+[2018.07.23-09.55.46:710][883]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Map_1.Map_1 to /Game/StarterContent/UEDPIE_0_Map_1.Map_1 (0.006419s)
+[2018.07.23-09.55.46:733][883]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.23-09.55.46:741][883]LogInit: FAudioDevice initialized.
+[2018.07.23-09.55.46:777][883]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.23-09.55.46:779][883]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2018.07.23-11.55.46
+[2018.07.23-09.55.46:779][883]LogWorld: Bringing up level for play took: 0.001804
+[2018.07.23-09.55.46:780][883]PIE: Play in editor start time for /Game/StarterContent/UEDPIE_0_Map_1 0.272
+[2018.07.23-09.56.17:695][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Map_1" FILE="../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/StarterContent/Map_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.23-09.56.17:970][530]LogSavePackage: Save=252.31ms
+[2018.07.23-09.56.17:970][530]LogSavePackage: Moving '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Saved/Map_1B7515C0246CAC47B2D29DEB2D37DB82C.tmp' to '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/StarterContent/Map_1.umap'
+[2018.07.23-09.56.17:976][530]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/StarterContent/Map_1.umap
+[2018.07.23-09.56.17:999][530]LogFileHelpers: Saving map 'Map_1' took 0.559
+[2018.07.23-09.56.19:960][753]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.07.23-09.56.28:421][753]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.07.23-09.56.28:609][753]SourceControl: [master 66c7bbd] HeroBp
+[2018.07.23-09.56.28:609][753]SourceControl:  3 files changed, 0 insertions(+), 0 deletions(-)
+[2018.07.23-09.56.28:609][753]SourceControl:  rewrite Content/Oui.uasset (77%)
+[2018.07.23-09.56.28:625][753]SourceControl: Commited [master 66c7bbd] HeroBp.
+[2018.07.23-09.56.49:724][393]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.07.23-09.56.49:787][393]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.07.23-09.56.49:873][393]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.23-09.56.50:202][394]Cmd: QUIT_EDITOR
+[2018.07.23-09.56.50:947][394]LogExit: Preparing to exit.
+[2018.07.23-09.56.51:402][394]LogDirectoryWatcher: A directory notification for 'C:/Users/Jeremy/Documents/GitHub/MyProject4/Content/' was aborted.
+[2018.07.23-09.56.51:546][394]LogExit: Editor shut down
+[2018.07.23-09.56.51:550][394]LogExit: Transaction tracking system shut down
+[2018.07.23-09.56.51:861][394]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.07.23-09.56.51:861][394]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/' was aborted.
+[2018.07.23-09.56.51:861][394]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.07.23-09.56.51:861][394]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.07.23-09.56.51:861][394]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.07.23-09.56.51:861][394]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.07.23-09.56.51:861][394]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.07.23-09.56.53:285][394]LogExit: Object subsystem successfully closed.
+[2018.07.23-09.56.53:448][394]LogD3D11RHI: Shutdown
+[2018.07.23-09.56.53:457][394]LogD3D11RHI: CleanupD3DDevice
+[2018.07.23-09.56.53:523][394]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.07.23-09.56.54:395][394]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (556)
+[2018.07.23-09.56.54:395][394]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (554)
+[2018.07.23-09.56.54:395][394]LogModuleManager: Shutting down and abandoning module BlueprintGraph (552)
+[2018.07.23-09.56.54:396][394]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (550)
+[2018.07.23-09.56.54:396][394]LogModuleManager: Shutting down and abandoning module SceneOutliner (548)
+[2018.07.23-09.56.54:410][394]LogModuleManager: Shutting down and abandoning module AddContentDialog (546)
+[2018.07.23-09.56.54:410][394]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.07.23-09.56.54:414][394]LogModuleManager: Shutting down and abandoning module WidgetCarousel (545)
+[2018.07.23-09.56.54:414][394]LogModuleManager: Shutting down and abandoning module EditorWidgets (542)
+[2018.07.23-09.56.54:414][394]LogModuleManager: Shutting down and abandoning module CollectionManager (540)
+[2018.07.23-09.56.54:429][394]LogDirectoryWatcher: A directory notification for 'C:/Users/Jeremy/Documents/GitHub/MyProject4/Content/Collections/' was aborted.
+[2018.07.23-09.56.54:429][394]LogDirectoryWatcher: A directory notification for 'C:/Users/Jeremy/Documents/GitHub/MyProject4/Content/Developers/Jeremy/Collections/' was aborted.
+[2018.07.23-09.56.54:429][394]LogDirectoryWatcher: A directory notification for 'C:/Users/Jeremy/Documents/GitHub/MyProject4/Saved/Collections/' was aborted.
+[2018.07.23-09.56.54:429][394]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (538)
+[2018.07.23-09.56.54:429][394]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.07.23-09.56.54:453][394]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.07.23-09.56.54:453][394]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.07.23-09.56.54:472][394]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.07.23-09.56.54:472][394]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.07.23-09.56.54:472][394]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.07.23-09.56.54:472][394]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.07.23-09.56.54:472][394]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.07.23-09.56.54:472][394]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.07.23-09.56.54:472][394]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.07.23-09.56.54:473][394]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.07.23-09.56.54:473][394]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.07.23-09.56.54:479][394]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.07.23-09.56.54:493][394]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.07.23-09.56.54:507][394]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.07.23-09.56.54:543][394]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.07.23-09.56.54:543][394]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.07.23-09.56.54:543][394]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.07.23-09.56.54:543][394]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.07.23-09.56.54:543][394]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.07.23-09.56.54:543][394]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.07.23-09.56.54:543][394]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.07.23-09.56.54:543][394]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.07.23-09.56.54:543][394]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.07.23-09.56.54:543][394]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.07.23-09.56.54:543][394]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.07.23-09.56.54:543][394]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.07.23-09.56.54:548][394]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.07.23-09.56.54:556][394]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.07.23-09.56.54:556][394]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.07.23-09.56.54:556][394]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.07.23-09.56.54:556][394]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.07.23-09.56.54:556][394]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.07.23-09.56.54:578][394]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.07.23-09.56.54:585][394]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.07.23-09.56.54:600][394]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.07.23-09.56.54:624][394]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.07.23-09.56.54:643][394]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.07.23-09.56.54:643][394]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.07.23-09.56.54:643][394]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.07.23-09.56.54:643][394]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.07.23-09.56.54:670][394]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.07.23-09.56.54:670][394]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.07.23-09.56.54:670][394]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.07.23-09.56.54:670][394]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.07.23-09.56.54:670][394]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.07.23-09.56.54:686][394]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.07.23-09.56.54:686][394]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.07.23-09.56.54:703][394]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.07.23-09.56.54:703][394]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.07.23-09.56.54:719][394]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.07.23-09.56.54:732][394]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.07.23-09.56.54:732][394]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.07.23-09.56.54:732][394]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.07.23-09.56.54:732][394]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.07.23-09.56.54:741][394]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.07.23-09.56.54:741][394]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.07.23-09.56.54:741][394]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.07.23-09.56.54:741][394]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.07.23-09.56.54:741][394]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.07.23-09.56.54:742][394]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.07.23-09.56.54:758][394]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.07.23-09.56.54:771][394]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.07.23-09.56.54:788][394]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.07.23-09.56.54:802][394]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.07.23-09.56.54:857][394]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.07.23-09.56.54:886][394]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.07.23-09.56.54:909][394]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.07.23-09.56.54:949][394]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.07.23-09.56.54:949][394]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.07.23-09.56.54:969][394]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.07.23-09.56.54:984][394]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.07.23-09.56.55:066][394]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.07.23-09.56.55:066][394]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.07.23-09.56.55:066][394]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.07.23-09.56.55:092][394]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.07.23-09.56.55:093][394]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.07.23-09.56.55:093][394]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.07.23-09.56.55:101][394]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.07.23-09.56.55:124][394]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.07.23-09.56.55:146][394]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.07.23-09.56.55:155][394]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.07.23-09.56.55:156][394]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.07.23-09.56.55:156][394]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.07.23-09.56.55:156][394]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.07.23-09.56.55:156][394]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.07.23-09.56.55:156][394]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.07.23-09.56.55:156][394]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.07.23-09.56.55:156][394]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.07.23-09.56.55:156][394]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.07.23-09.56.55:156][394]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.07.23-09.56.55:170][394]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.07.23-09.56.55:171][394]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.07.23-09.56.55:178][394]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.07.23-09.56.55:178][394]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.07.23-09.56.55:314][394]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.07.23-09.56.55:338][394]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.07.23-09.56.55:338][394]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.07.23-09.56.55:339][394]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.07.23-09.56.55:349][394]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.07.23-09.56.55:358][394]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.07.23-09.56.55:358][394]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.07.23-09.56.55:358][394]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.07.23-09.56.55:363][394]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.07.23-09.56.55:363][394]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.07.23-09.56.55:363][394]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.07.23-09.56.55:363][394]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.07.23-09.56.55:381][394]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.07.23-09.56.55:381][394]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.07.23-09.56.55:381][394]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.07.23-09.56.55:381][394]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.07.23-09.56.55:393][394]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.07.23-09.56.55:393][394]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.07.23-09.56.55:404][394]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.07.23-09.56.55:404][394]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.07.23-09.56.55:404][394]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.07.23-09.56.55:406][394]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.07.23-09.56.55:417][394]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.07.23-09.56.55:417][394]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.07.23-09.56.55:417][394]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.07.23-09.56.55:417][394]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.07.23-09.56.55:428][394]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.07.23-09.56.55:445][394]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.07.23-09.56.55:456][394]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.07.23-09.56.55:456][394]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.07.23-09.56.55:456][394]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.07.23-09.56.55:456][394]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.07.23-09.56.55:456][394]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.07.23-09.56.55:478][394]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.07.23-09.56.55:482][394]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.07.23-09.56.55:491][394]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.07.23-09.56.55:499][394]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.07.23-09.56.55:499][394]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.07.23-09.56.55:513][394]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.07.23-09.56.55:513][394]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.07.23-09.56.55:513][394]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.07.23-09.56.55:513][394]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.07.23-09.56.55:513][394]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.07.23-09.56.55:513][394]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.07.23-09.56.55:513][394]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.07.23-09.56.55:527][394]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.07.23-09.56.55:633][394]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.07.23-09.56.55:749][394]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.07.23-09.56.55:760][394]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.07.23-09.56.55:760][394]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.07.23-09.56.55:760][394]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.07.23-09.56.55:773][394]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.07.23-09.56.55:773][394]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.07.23-09.56.55:775][394]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.07.23-09.56.55:775][394]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.07.23-09.56.55:775][394]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.07.23-09.56.55:787][394]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.07.23-09.56.55:798][394]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.07.23-09.56.55:799][394]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.07.23-09.56.55:799][394]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.07.23-09.56.55:799][394]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.07.23-09.56.55:811][394]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.07.23-09.56.55:811][394]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.07.23-09.56.55:817][394]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.07.23-09.56.55:817][394]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.07.23-09.56.55:817][394]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.07.23-09.56.55:828][394]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.07.23-09.56.55:836][394]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.07.23-09.56.55:836][394]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.07.23-09.56.55:856][394]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.07.23-09.56.55:865][394]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.07.23-09.56.55:890][394]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.07.23-09.56.55:890][394]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.07.23-09.56.55:914][394]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.07.23-09.56.56:016][394]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.07.23-09.56.56:129][394]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.07.23-09.56.56:129][394]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.07.23-09.56.56:208][394]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.07.23-09.56.56:208][394]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.07.23-09.56.56:248][394]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.07.23-09.56.56:248][394]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.07.23-09.56.56:248][394]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.07.23-09.56.56:248][394]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.07.23-09.56.56:248][394]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.07.23-09.56.56:248][394]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.07.23-09.56.56:248][394]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.07.23-09.56.56:288][394]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.07.23-09.56.56:293][394]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.07.23-09.56.56:293][394]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.07.23-09.56.56:311][394]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.07.23-09.56.56:341][394]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.07.23-09.56.56:341][394]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.07.23-09.56.56:378][394]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.07.23-09.56.56:378][394]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.07.23-09.56.56:384][394]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.07.23-09.56.56:392][394]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.07.23-09.56.56:573][394]LogDerivedDataCache: Shutdown
+[2018.07.23-09.56.56:573][394]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.07.23-09.56.56:573][394]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.07.23-09.56.56:638][394]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.07.23-09.56.56:713][394]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.07.23-09.56.56:867][394]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.07.23-09.56.56:913][394]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.07.23-09.56.56:936][394]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.07.23-09.56.56:936][394]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.07.23-09.56.56:936][394]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.07.23-09.56.56:948][394]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.07.23-09.56.56:954][394]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.07.23-09.56.56:954][394]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.07.23-09.56.56:954][394]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.07.23-09.56.56:954][394]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.07.23-09.56.56:954][394]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.07.23-09.56.56:954][394]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.07.23-09.56.56:954][394]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.07.23-09.56.56:954][394]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.07.23-09.56.56:954][394]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.07.23-09.56.56:954][394]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.07.23-09.56.56:954][394]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.07.23-09.56.56:954][394]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.07.23-09.56.56:954][394]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.07.23-09.56.56:954][394]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.07.23-09.56.56:954][394]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.07.23-09.56.56:954][394]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.07.23-09.56.56:954][394]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.07.23-09.56.56:954][394]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.07.23-09.56.56:954][394]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.07.23-09.56.56:954][394]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.07.23-09.56.56:954][394]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.07.23-09.56.56:954][394]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.07.23-09.56.56:954][394]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.07.23-09.56.56:954][394]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.07.23-09.56.56:954][394]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.07.23-09.56.56:954][394]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.07.23-09.56.56:954][394]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.07.23-09.56.56:954][394]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.07.23-09.56.56:954][394]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.07.23-09.56.56:954][394]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.07.23-09.56.56:954][394]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.07.23-09.56.56:954][394]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.07.23-09.56.56:954][394]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.07.23-09.56.56:954][394]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.07.23-09.56.56:954][394]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.07.23-09.56.56:954][394]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.07.23-09.56.56:966][394]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.07.23-09.56.56:966][394]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.07.23-09.56.56:966][394]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.07.23-09.56.56:966][394]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.07.23-09.56.56:966][394]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.07.23-09.56.57:096][394]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.07.23-09.56.57:247][394]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.07.23-09.56.57:247][394]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.07.23-09.56.57:259][394]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B08D63494-4CD7-8519-241C-A58E660478D8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=ef85983b4c7173e37bccc3a9167af6cc%7Ca67ab14d1aa64c52bb7facf0b237a3d4%7Cd31751b1-b622-4de7-8b68-f3334a384154&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.07.23-09.56.57:267][394]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.07.23-09.56.57:299][394]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.07.23-09.56.57:331][394]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.07.23-09.56.57:331][394]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.07.23-09.56.57:407][394]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.07.23-09.56.57:529][394]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.07.23-09.56.57:529][394]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.07.23-09.56.57:529][394]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.07.23-09.56.57:572][394]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.07.23-09.56.57:596][394]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.07.23-09.56.57:596][394]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.07.23-09.56.57:618][394]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.07.23-09.56.57:618][394]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.07.23-09.56.57:618][394]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.07.23-09.56.57:618][394]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.07.23-09.56.57:630][394]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.07.23-09.56.57:630][394]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.07.23-09.56.57:638][394]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.07.23-09.56.57:666][394]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.07.23-09.56.57:751][394]LogExit: Exiting.
+[2018.07.23-09.56.57:761][394]Log file closed, 07/23/18 11:56:57
