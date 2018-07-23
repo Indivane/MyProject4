@@ -1908,3 +1908,31 @@ LogInit: Object subsystem initialized
 [2018.07.23-21.52.49:592][445]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2018.07.23-23.52.49
 [2018.07.23-21.52.49:592][445]LogWorld: Bringing up level for play took: 0.002849
 [2018.07.23-21.52.49:596][445]PIE: Play in editor start time for /Game/StarterContent/UEDPIE_0_Map_1 0.592
+[2018.07.23-21.53.56:699][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/Oui" FILE="../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Hero/Oui.uasset" SILENT=true
+[2018.07.23-21.53.56:742][323]LogSavePackage: Save=37.43ms
+[2018.07.23-21.53.56:742][323]LogSavePackage: Moving '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Saved/OuiC88B80864D29831BCB2E9AB0741B3A52.tmp' to '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Hero/Oui.uasset'
+[2018.07.23-21.53.56:750][323]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Hero/Oui.uasset
+[2018.07.23-21.53.56:768][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/Provoc" FILE="../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Hero/Provoc.uasset" SILENT=true
+[2018.07.23-21.53.56:808][323]LogSavePackage: Save=38.31ms
+[2018.07.23-21.53.56:808][323]LogSavePackage: Moving '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Saved/Provoc39C38FA240D5802A3BC6E1B0A7766F68.tmp' to '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Hero/Provoc.uasset'
+[2018.07.23-21.53.56:812][323]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Hero/Provoc.uasset
+[2018.07.23-21.53.57:154][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/Ninja_Idle" FILE="../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Hero/Ninja_Idle.uasset" SILENT=true
+[2018.07.23-21.53.57:170][323]LogSavePackage: Save=14.20ms
+[2018.07.23-21.53.57:170][323]LogSavePackage: Moving '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Saved/Ninja_IdleEC80B01248B1BFC459E418A68030E40C.tmp' to '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Hero/Ninja_Idle.uasset'
+[2018.07.23-21.53.57:176][323]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Hero/Ninja_Idle.uasset
+[2018.07.23-21.53.57:483][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/Jump__4_" FILE="../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Hero/Jump__4_.uasset" SILENT=true
+[2018.07.23-21.53.57:496][323]LogSavePackage: Save=11.35ms
+[2018.07.23-21.53.57:497][323]LogSavePackage: Moving '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Saved/Jump__4_8B23C9794630F99DAF5CCCAABE63B384.tmp' to '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Hero/Jump__4_.uasset'
+[2018.07.23-21.53.57:502][323]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Hero/Jump__4_.uasset
+[2018.07.23-21.53.57:816][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/Run" FILE="../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Hero/Run.uasset" SILENT=true
+[2018.07.23-21.53.57:834][323]LogSavePackage: Save=14.82ms
+[2018.07.23-21.53.57:834][323]LogSavePackage: Moving '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Saved/Run971B19294A43807E3C1B6A86DD63A1AF.tmp' to '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Hero/Run.uasset'
+[2018.07.23-21.53.57:839][323]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Hero/Run.uasset
+[2018.07.23-21.53.58:145][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/Falling_To_Landing__1_" FILE="../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Hero/Falling_To_Landing__1_.uasset" SILENT=true
+[2018.07.23-21.53.58:159][323]LogSavePackage: Save=11.13ms
+[2018.07.23-21.53.58:159][323]LogSavePackage: Moving '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Saved/Falling_To_Landing__1_DEBD132D4AACDCAE7F762FB01CB88EE4.tmp' to '../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Hero/Falling_To_Landing__1_.uasset'
+[2018.07.23-21.53.58:164][323]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jeremy/Documents/GitHub/MyProject4/Content/Hero/Falling_To_Landing__1_.uasset
+[2018.07.23-21.54.02:717][682]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.07.23-21.54.14:032][682]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.07.23-21.54.14:327][682]SourceControl: Error: fatal: cannot do a partial commit during a merge.
+[2018.07.23-21.54.14:342][682]SourceControl: Submitted revision.
