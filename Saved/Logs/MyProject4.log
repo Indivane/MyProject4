@@ -652,3 +652,4 @@ Make sure 'Hud' has been compiled for  Get EnergieMax
 [2018.07.24-16.10.52:777][990]Cmd: TRANSACTION UNDO
 [2018.07.24-16.10.52:777][990]LogEditorTransaction: Undo Clicking on Actors
 [2018.07.24-16.10.52:918][990]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.07.24-16.12.03:982][152]SourceControl: rm 'Content/Hud.uasset'
